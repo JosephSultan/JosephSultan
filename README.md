@@ -4,7 +4,7 @@
 <be>
 
 
-<h4> Worked with JavaScript, Python, HTML, CSS, React, Oauth2, and SQL.  </h4>
-  
+<h4> JavaScript, Python, HTML, CSS, Oauth2, MongoDB, SQL, Angular, React, Lambda & Serverless Functions. </h4>
+<h4> </h4>
   
 <h4> Get in touch here; https://tally.so/r/mJzYzK  </h4>
